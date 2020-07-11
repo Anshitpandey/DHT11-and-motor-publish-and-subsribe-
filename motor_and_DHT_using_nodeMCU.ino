@@ -6,15 +6,15 @@
 #define DHTPIN D3    
 #define DHTTYPE DHT11  
 
-#define WLAN_SSID       "Moh Maya"
-#define WLAN_PASS       ""
+#define WLAN_SSID       "Your SSID Name"
+#define WLAN_PASS       "Your SSID Password"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "MrElbert"
-#define AIO_KEY         "aio_HvuE94I0vW39soIka2we1phnDjce"
+#define AIO_USERNAME    "Your adafruit username"
+#define AIO_KEY         "Your AIO key"
 
 /************ Global State (you don't need to change this!) ******************/
 
